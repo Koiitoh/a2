@@ -36,12 +36,12 @@ body {
 
 #container {
  margin-top:20%;
- margin-left:25%;
- margin-right:20em;
+ margin-left:20%;
+ margin-right:10%;
  margin-bottom:10%;
 }
 
-#clear{
+.clear{
   clear: both;
 }
 
